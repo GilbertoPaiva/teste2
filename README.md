@@ -19,7 +19,7 @@ os estrutura em um arquivo CSV e compacta o resultado em um arquivo ZIP.
 
 1. Clone este repositório:
 ```
-git clone <https://github.com/GilbertoPaiva/teste2>
+git clone https://github.com/GilbertoPaiva/teste2
 cd teste2
 ```
 
