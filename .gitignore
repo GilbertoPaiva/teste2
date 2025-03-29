@@ -1,0 +1,40 @@
+# Arquivos gerados pelo script
+rol_procedimentos.csv
+Teste_Gilberto_de_Paiva_Melo.zip
+
+# Diretório de dados - ignorar arquivos mas manter estrutura
+dados/*
+!dados/.gitkeep
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Arquivos de ambiente virtual
+venv/
+ENV/
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
